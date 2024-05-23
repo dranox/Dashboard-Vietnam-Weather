@@ -20,7 +20,7 @@ The project is an innovative initiative aimed at providing comprehensive and rea
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/trungmac07/Face_Aging.git](https://github.com/dranox/Dashboard-Vietnam-Weather.git
+   git clone https://github.com/dranox/Dashboard-Vietnam-Weather.git
    ```
 
 ### Download data 
